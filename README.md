@@ -1,4 +1,3 @@
-# PRODIGY_ML_04
 # Hand Gesture Recognition Model<br>
 This repository hosts the development of a machine learning model designed to recognize hand gestures from video input. The model utilizes advanced computer vision techniques and deep learning algorithms to interpret and classify various hand gestures, enabling intuitive human-computer interactions.<br>
 
