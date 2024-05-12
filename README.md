@@ -20,3 +20,8 @@ How to Use:<br>
 Clone the Repository: Secure a local copy of this repository to start working with the project.<br>
 Install Dependencies: Install the necessary Python libraries by executing pip install -r requirements.txt.<br>
 Run the Application: Follow the instructions in the provided documentation to start the application and test different hand gestures in real-time.<br>
+Images:<br>
+<img width="960" alt="Screenshot 2024-05-12 131301" src="https://github.com/NikashSenguttuvan/PRODIGY_ML_04/assets/166650393/581807a9-1d61-4d6d-a655-cac59c768183"><br>
+![Screenshot (41)](https://github.com/NikashSenguttuvan/PRODIGY_ML_04/assets/166650393/5547eefa-51f4-4a0c-9810-e3778bdf218d)
+
+
